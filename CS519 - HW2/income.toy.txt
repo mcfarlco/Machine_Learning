@@ -1,0 +1,11 @@
+45, Federal-gov, Bachelors, Married-civ-spouse, Adm-clerical, White, Male, 45, United-States, <=50K
+33, Private, 5th-6th, Married-spouse-absent, Transport-moving, Other, Male, 20, El-Salvador, <=50K
+19, Private, Some-college, Never-married, Transport-moving, White, Male, 40, United-States, <=50K
+47, Private, 11th, Divorced, Other-service, White, Female, 15, United-States, <=50K
+30, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, White, Male, 40, United-States, >50K
+37, Private, Bachelors, Separated, Other-service, White, Male, 70, England, <=50K
+35, Private, HS-grad, Married-civ-spouse, Adm-clerical, White, Male, 40, United-States, <=50K
+33, Private, HS-grad, Married-civ-spouse, Other-service, White, Female, 25, United-States, <=50K
+40, Private, Some-college, Married-civ-spouse, Sales, White, Male, 60, United-States, >50K
+54, Federal-gov, Some-college, Divorced, Adm-clerical, White, Female, 40, United-States, <=50K
+32, Private, Bachelors, Never-married, Prof-specialty, White, Male, 50, United-States, <=50K
